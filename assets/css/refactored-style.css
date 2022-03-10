@@ -17,6 +17,7 @@ p {
     font-size: 16px;
 }
 
+/* header/nav bar styles start */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,7 +51,10 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
+/* header/nav bar styles end */
 
+
+/* hero styles start */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,7 +63,10 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* hero styles end */
 
+
+/* things we do section */
 .content {
     width: 75%;
     display: inline-block;
@@ -96,6 +103,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end of things we do section */
+
 
 /* this is the benefits section */
 .benefits {
@@ -127,7 +136,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end of benefits section */
 
+
+/* footer styles */
 .footer {
     padding: 30px;
     clear: both;

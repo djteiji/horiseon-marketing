@@ -30,7 +30,7 @@ Refactor coding for an internet marketing company's website.
 https://djteiji.github.io/horiseon-marketing
 
 
-<img src="./assets/images/Screen Shot 2022-03-10 at 9.48.03 PM.PNG"/>
+<img src="./Screen Shot 2022-03-10 at 9.48.03 PM.PNG"/>
 
 ## Contribution
 Made with ❤️ by Teiji Malkine
